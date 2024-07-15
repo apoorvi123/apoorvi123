@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! , I'm Apoorvi Singh </h1>
 <img align="right" alt="avtar" width="200" src="https://c.tenor.com/nuKmYDgaDpAAAAAC/tenor.gif">
 
-- 🌱 I’m currently learning **MERN Full Stack Web Dev.**
+- 🌱 I’m currently learning **MERN Full Stack Web Development.**
 
 - 💬 Ask me about **MERN Full Stack.**
 
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/apoorvi-singh-2a461a30a/">LinkedIn </a>
 
-- ⚡ Fun fact **I'm a smiling person ;)**
+- ⚡ Fun fact **I'm a Smiling Person & Volley Ball Player!**
  <br><br>
 
 ## LANGUAGES & TOOLS
