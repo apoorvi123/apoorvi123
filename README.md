@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **aporvasingh229@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/apoorvi-singh-2a461a30a/)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/apoorvi-singh-2a461a30a/">
 
 - ⚡ Fun fact **I'm a smiling person ;)**
  <br>
