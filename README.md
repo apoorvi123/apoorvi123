@@ -11,7 +11,7 @@
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/apoorvi-singh-2a461a30a/">LinkedIn </a>
 
 - ⚡ Fun fact **I'm a smiling person ;)**
- <br>
+ <br><br>
 
 ## LANGUAGES & TOOLS
 <div align="centre">
