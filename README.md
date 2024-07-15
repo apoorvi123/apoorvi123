@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **MERN Full Stack.**
 
-- 📫 How to reach me **aporvasingh229@gmail.com**
+- 📫 How to reach me <a href="aporvasingh229@gmail.com">**Mail** Id</a>
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/apoorvi-singh-2a461a30a/">LinkedIn </a>
 
