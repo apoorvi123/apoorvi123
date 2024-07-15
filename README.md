@@ -27,10 +27,10 @@
 
 ## CONNECT WITH ME:
 <div align="center">
-<a href="https://github.com/apoorvi123/apoorvi123" target="_blank">
+<a href="https://github.com/apoorvi123" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="[https://linkedin.com/in/ https://www.linkedin.com/in/gaurav-verma-98b9aa239/](https://www.linkedin.com/in/apoorvi-singh-2a461a30a/)" target="_blank">
+<a href="[https://www.linkedin.com/in/apoorvi-singh-2a461a30a/]" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
