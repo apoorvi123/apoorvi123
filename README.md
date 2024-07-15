@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"/> Hello! , I'm Apoorvi Singh </h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! , I'm Apoorvi Singh </h1>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/SD18fSwSsRgAAAAC/cute-anime.gif">
 
 - 🌱 I’m currently learning **MERN Full Stack Web Dev.**
