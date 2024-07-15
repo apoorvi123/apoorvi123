@@ -1,6 +1,6 @@
 
-<h1 align="center"><img src="https://c.tenor.com/SD18fSwSsRgAAAAC/cute-anime.gif" width="30"/> Hello! , I'm Apoorvi Singh </h1>
-<img align="right" alt="Coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2021/07/zoro-gif-7.gif">
+<h1 align="center"><img src="https://c.tenor.com/z94kQ6GwgyEAAAAC/tenor.gif"/> Hello! , I'm Apoorvi Singh </h1>
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/SD18fSwSsRgAAAAC/cute-anime.gif">
 
 - 🌱 I’m currently learning **MERN Full Stack Web Dev.**
 
