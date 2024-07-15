@@ -17,9 +17,8 @@
 <div align="centre">
    <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
    <img alt="Css" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-      <img alt="Css" src="https://img.shields.io/badge/html%20-%231572B6.svg?&style=for-the-badge&logo=html&logoColor=red"/>
+      <img alt="html" src="https://img.shields.io/badge/html%20-%231572B6.svg?&style=for-the-badge&logo=html&logoColor=red"/>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="Css" src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=blue"/>
        
@@ -28,23 +27,22 @@
 
 ## CONNECT WITH ME:
 <div align="center">
-<a href="https://github.com/https://github.com/briskgaurav" target="_blank">
+<a href="https://github.com/apoorvi123/apoorvi123" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/ https://www.linkedin.com/in/gaurav-verma-98b9aa239/" target="_blank">
+<a href="[https://linkedin.com/in/ https://www.linkedin.com/in/gaurav-verma-98b9aa239/](https://www.linkedin.com/in/apoorvi-singh-2a461a30a/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
 <br>
 
 ## 📊 GitHub Activity
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briskgaurav&" alt="briskgaurav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvi123&" alt="apoorvi123" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&locale=en" alt="briskgaurav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvi123&show_icons=true&locale=en" alt="apoorvi123" /></p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briskgaurav&show_icons=true&locale=en&layout=compact" alt="briskgaurav" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvi123&show_icons=true&locale=en&layout=compact" alt="apoorvi123" /></p><br>
 
 ## 📚 My Education Status
-<h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
-<h4>🏆 Polytechnic from Janta Polytechnic, Jhangirabad </h4>
-<h4>🏆 10th from Azad Public School, Bulandshahr </h4>
+<h4>⌚ B.Tech (AI/ML) at Shri Ram Murti Smarak College of Engineering & Technology, Bareily </h4>
+<h4>🏆 10th & 12th from Kendriya Vidyalaya, Bareily </h4>
