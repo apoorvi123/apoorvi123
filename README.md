@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yo! , I'm Gaurav Verma </h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! , I'm Apoorvi Singh </h1>
 <img align="right" alt="Coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2021/07/zoro-gif-7.gif">
 
 - 🌱 I’m currently learning **MERN Full Stack Web Dev.**
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/apoorvi-singh-2a461a30a/)
 
-- ⚡ Fun fact **I'm gym rat!**
+- ⚡ Fun fact **I'm a smiling person ;)**
  <br>
 
 ## LANGUAGES & TOOLS
