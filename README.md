@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! , I'm Apoorvi Singh </h1>
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFta3l4c3VhNzhnZHdvYXRmaHBhYWxvODIxNXE0ZGhwMDZ2bGVvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1N8JV9p3FqgM/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/beautiful-anime-cute-wave-zid7nvnjycvq4p7k.gif">
 
 - 🌱 I’m currently learning **MERN Full Stack Web Dev.**
 
